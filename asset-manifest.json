@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fitness_Club/static/css/main.3e981a67.css",
-    "main.js": "/Fitness_Club/static/js/main.4bd54549.js",
+    "main.js": "/Fitness_Club/static/js/main.8af3d813.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Fitness_Club/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/1.jpeg": "/Fitness_Club/static/media/1.79ac577e7ec7461a9ebf.jpeg",
     "static/media/fontawesome-webfont.eot": "/Fitness_Club/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,10 +10,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Fitness_Club/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Fitness_Club/index.html",
     "main.3e981a67.css.map": "/Fitness_Club/static/css/main.3e981a67.css.map",
-    "main.4bd54549.js.map": "/Fitness_Club/static/js/main.4bd54549.js.map"
+    "main.8af3d813.js.map": "/Fitness_Club/static/js/main.8af3d813.js.map"
   },
   "entrypoints": [
     "static/css/main.3e981a67.css",
-    "static/js/main.4bd54549.js"
+    "static/js/main.8af3d813.js"
   ]
 }
