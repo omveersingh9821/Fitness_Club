@@ -10,6 +10,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Form />} />
         <Route path="/view-list" element={<List />} />
+        <Route path="*" element={<Form />} />
+
       </Routes>
     </Router>
     
